@@ -12,5 +12,5 @@
 Python • SQL • HTML • CSS • JavaScript
 
 ### 📫 Connect with me
-- LinkedIn: [[Your LinkedIn]](https://www.linkedin.com/in/kenzyyshahin/)
+- LinkedIn: https://www.linkedin.com/in/kenzyyshahin/
 - Email: 01023833096ks@gmail.com
