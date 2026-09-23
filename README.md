@@ -10,6 +10,7 @@ I'm currently building my skills by working on projects, exploring new technolog
 * 🐍 Python & SQL
 * 📈 Data Visualization
 * 🌐 Frontend Development
+* ⚛️ React
 * 💡 Building practical projects and learning by doing
 
 ### 🛠️ Technologies & Skills
@@ -24,6 +25,7 @@ I'm currently building my skills by working on projects, exploring new technolog
 * HTML
 * CSS
 * JavaScript
+* React
 
 **Data & Visualization**
 
