@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kenzy Shahin👋
 
-<!--
-**kenzyyshahin/kenzyyshahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd-year student passionate about Data Science, Data Analysis, and Frontend Development.
 
-Here are some ideas to get you started:
+### 🚀 Currently Learning
+- 📊 Data Science & Data Analysis
+- 🌐 Frontend Development
+- 🐍 Python
+- 📈 Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+Python • SQL • HTML • CSS • JavaScript
+
+### 📫 Connect with me
+- LinkedIn: [[Your LinkedIn]](https://www.linkedin.com/in/kenzyyshahin/)
+- Email: 01023833096ks@gmail.com
