@@ -1,16 +1,40 @@
-# Hi, I'm Kenzy Shahin👋
+# Hi, I'm Kenzy Shahin 👋
 
-🎓 2nd-year student passionate about Data Science, Data Analysis, and Frontend Development.
+🎓 I'm a 2nd-year student passionate about **Data Science, Data Analysis, and Frontend Development**.
 
-### 🚀 Currently Learning
-- 📊 Data Science & Data Analysis
-- 🌐 Frontend Development
-- 🐍 Python
-- 📈 Data Visualization
+I'm currently building my skills by working on projects, exploring new technologies, and turning data into meaningful insights.
 
-### 🛠️ Skills
-Python • SQL • HTML • CSS • JavaScript
+### 🚀 Currently Exploring
 
-### 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/kenzyyshahin/
-- Email: 01023833096ks@gmail.com
+* 📊 Data Science & Data Analysis
+* 🐍 Python & SQL
+* 📈 Data Visualization
+* 🌐 Frontend Development
+* 💡 Building practical projects and learning by doing
+
+### 🛠️ Technologies & Skills
+
+**Languages & Data**
+
+* Python
+* SQL
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+
+**Data & Visualization**
+
+* Data Analysis
+* Data Visualization
+
+### 📌 What I'm Working On
+
+I'm continuously learning and building projects that combine **data, technology, and creativity**.
+
+### 📫 Let's Connect
+
+* 💼 LinkedIn: [Kenzy Shahin](https://www.linkedin.com/in/kenzyyshahin/)
+* 📧 Email: [01023833096ks@gmail.com](mailto:01023833096ks@gmail.com)
